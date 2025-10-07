@@ -1,8 +1,10 @@
 # Toado API
 
-A FastAPI-based todo management backend with a playful toad theme.
+A FastAPI-based todo management backend by a vary powerful Toad
 
-## Features (Phase 1 - Groundwork)
+
+
+## Features
 
 - **Full CRUD operations** for todos
 - **Input validation** with Pydantic
@@ -10,14 +12,6 @@ A FastAPI-based todo management backend with a playful toad theme.
 - **Request logging middleware**
 - **SQLAlchemy** data layer with SQLite
 - **Modular architecture** ready for future enhancements
-
-## Future Enhancements (Phase 2)
-
-- User registration/login with JWT authentication
-- User-specific todos
-- Admin endpoints
-- Rate limiting
-- Email verification (mock)
 
 ## Project Structure
 
