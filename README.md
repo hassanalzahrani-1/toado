@@ -401,13 +401,7 @@ docker run -p 8000:8000 toado-api
 - [ ] Email verification (mock)
 - [ ] Password reset functionality
 - [ ] Role-based access control
-
-### Phase 3 - Full Stack (Future)
 - [ ] React/Vue frontend
-- [ ] Real-time updates (WebSockets)
-- [ ] File attachments
-- [ ] Todo sharing and collaboration
-- [ ] Mobile app (React Native)
 
 ## 🤝 Contributing
 
